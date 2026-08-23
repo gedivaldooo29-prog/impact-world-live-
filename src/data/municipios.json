@@ -1,0 +1,8 @@
+src/
+├── components/
+├── pages/
+├── data/
+│   └── municipios.json
+├── utils/
+├── App.tsx
+└── main.tsx
